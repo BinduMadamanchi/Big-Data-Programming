@@ -1,0 +1,6 @@
+employee_id|department|lastname|years_with_company|empno|ename|jobtitle|hiredate|salary|annualsalary|deptno|managervalues,
+1|Engineering|Stevens|1|10|David|clerk|december 17,1980|500|60000|21|1
+2|Engineering|Jones|2|11|John|clerk|december 25,2017|5000|600000|20|2
+3|Marketing|Smith|3|12|Andrew|ceo|june 16,2016|50000|600000|29|4
+4|Sales|Howard|1|13|Sailesh|coo|january 16,2018|40000|5900000|19|3
+5|Sales|paki|20|14|ja|staff|february 24,1980|20|1000|13|3
