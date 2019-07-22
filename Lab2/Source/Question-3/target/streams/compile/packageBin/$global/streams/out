@@ -1,0 +1,19 @@
+[info] Packaging C:\Users\saile\IdeaProjects\lab\target\scala-2.11\lab_2.11-0.1.jar ...
+[debug] Input file mappings:
+[debug] 	Twitter$$anonfun$2$$anonfun$apply$1.class
+[debug] 	  C:\Users\saile\IdeaProjects\lab\target\scala-2.11\classes\Twitter$$anonfun$2$$anonfun$apply$1.class
+[debug] 	Twitter$$anonfun$3.class
+[debug] 	  C:\Users\saile\IdeaProjects\lab\target\scala-2.11\classes\Twitter$$anonfun$3.class
+[debug] 	Twitter$$anonfun$2.class
+[debug] 	  C:\Users\saile\IdeaProjects\lab\target\scala-2.11\classes\Twitter$$anonfun$2.class
+[debug] 	META-INF\lab.kotlin_module
+[debug] 	  C:\Users\saile\IdeaProjects\lab\target\scala-2.11\classes\META-INF\lab.kotlin_module
+[debug] 	Twitter.class
+[debug] 	  C:\Users\saile\IdeaProjects\lab\target\scala-2.11\classes\Twitter.class
+[debug] 	META-INF
+[debug] 	  C:\Users\saile\IdeaProjects\lab\target\scala-2.11\classes\META-INF
+[debug] 	Twitter$.class
+[debug] 	  C:\Users\saile\IdeaProjects\lab\target\scala-2.11\classes\Twitter$.class
+[debug] 	Twitter$$anonfun$1.class
+[debug] 	  C:\Users\saile\IdeaProjects\lab\target\scala-2.11\classes\Twitter$$anonfun$1.class
+[info] Done packaging.
